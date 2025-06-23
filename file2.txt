@@ -1,0 +1,3 @@
+machine learning is amazing
+data science is powerful
+deep learning is a subset of machine learning

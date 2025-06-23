@@ -1,0 +1,25 @@
+Reading files...
+File 1 words: 16
+File 2 words: 16
+Time taken: 0 ms
+
+Analysis Results:
+==================
+N-gram size: 3
+Common phrases found: 14
+
+Matching phrases:
+1. machine learning is 
+2. learning is amazing 
+3. is amazing data 
+4. amazing data science 
+5. data science is 
+6. science is powerful 
+7. is powerful deep 
+8. powerful deep learning 
+9. deep learning is 
+10. learning is a 
+... and 4 more matches.
+
+Similarity: 100%
+HIGH PLAGIARISM RISK detected!

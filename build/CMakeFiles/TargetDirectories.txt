@@ -1,0 +1,3 @@
+/home/samosa/student/build/CMakeFiles/PlagiarismChecker.dir
+/home/samosa/student/build/CMakeFiles/edit_cache.dir
+/home/samosa/student/build/CMakeFiles/rebuild_cache.dir
