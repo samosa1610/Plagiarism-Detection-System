@@ -37,9 +37,24 @@ A fast and scalable plagiarism detection engine built in **C++** using **Suffix 
 ├── results.txt                       # Output result (auto-written)
 └── gui.py                            # Python GUI
 ```
+---
 
+## 📦 Requirements & Setup
 
+### ✅ C++ Dependencies
 
+Make sure the following are installed:
+
+```bash
+sudo apt update
+sudo apt install g++ cmake build-essential
+```
+### ✅ Python Dependencies
+```bash
+sudo apt install python3 python3-tk
+pip install tkinterdnd2
+
+```
 ---
 
 ## 🔧 Build & Run Instructions
